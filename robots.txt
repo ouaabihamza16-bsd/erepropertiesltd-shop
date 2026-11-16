@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erepropertiesltd.shop/sitemap.xml
